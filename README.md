@@ -1,7 +1,10 @@
 # ProjetoBuzzfeed
 
-## Sobre
-Jogo de questionários que tem como objetivo fazer uma avaliação dos conhecimentos sobre determinado assunto.
+## About
+
+A game of quizzes whose objective is to assess nowledge about a given subject.
+
+## Version Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
